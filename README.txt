@@ -1,3 +1,5 @@
+Make sure you have installed python3 and django (pip install django)
+
 Try to run django server:
 	1) In command prompt go to Scripts repo
 	2) Execute "activate"
